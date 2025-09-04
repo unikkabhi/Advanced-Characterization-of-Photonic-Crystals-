@@ -48,3 +48,8 @@ This repository documents an in-depth analysis of **microstructural characteriza
 ---
 
 ## Repository Structure
+├── data/ # Raw and processed experimental datasets
+├── analysis/ # Scripts/notebooks for XRD and SEM data analysis
+├── results/ # Plots, graphs, and micrographs
+├── docs/ # Documentation and technical reports
+└── presentation/ # Slides from the technical presentation
